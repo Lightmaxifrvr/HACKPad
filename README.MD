@@ -21,10 +21,17 @@ This is the case together (using m3 bolts)
 ## the Bill (Cypher) of Materials!
 
 1x Seeed XIAO RP2040
+
 9x Through-hole 1N4148 Diodes
+
 9x Cherry MX Switches
+
 1x EC11 Rotary encoder
+
 9x Red DSA keycaps
+
 4x SK6812 MINI-E LEDs
+
 4x M3x16mm screws
+
 4x M3x5mx4mm heatset inserts
