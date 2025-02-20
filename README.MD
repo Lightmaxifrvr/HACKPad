@@ -3,8 +3,8 @@ This is my [HackClub](https://hackclub.com/) [HackPad](https://hackpad.hackclub.
 It has 9 Keys, 4 LED's, a Rotary Encoder and uses KMK firmware.
 
 ## hacpad!
-This is it without any components just the case and PCB (i dont know where to find the 3d models for everything).
-![My HackPad](media/overall.png)
+This is it this is the hackpad in all its glory (minus the keycaps).
+![tengo hacer pad](media/fullcase.png)
 
 ## the schem!
 Its pretty simple and probably the best looking thing out of everything.
